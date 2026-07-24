@@ -1,0 +1,7 @@
+rice
+milk
+bread
+eggs
+sugar
+tea
+biscuits
